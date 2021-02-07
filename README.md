@@ -1,1 +1,1 @@
-어떻게 꾸며야 잘 꾸몄다고 소문이 날까
+[뭐 그렇다네요](https://search.naver.com/search.naver?ie=UTF-8&sm=whl_hty&query=%EA%B9%83%ED%97%88%EB%B8%8C)
