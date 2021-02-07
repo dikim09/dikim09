@@ -1,4 +1,4 @@
-안녕하세요! 학생 개발자 헤스티아입니다!
+안녕하세요! 학생 개발자 헤스티아입니다!\n
 Hello! I'm student developer 'Hestia'!
 저는 한국 국적을 가지고 있습니다!
 I'm from Korea!
