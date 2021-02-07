@@ -1,1 +1,10 @@
-[뭐 그렇다네요](https://search.naver.com/search.naver?ie=UTF-8&sm=whl_hty&query=%EA%B9%83%ED%97%88%EB%B8%8C)
+안녕하세요! 학생 개발자 헤스티아입니다!
+Hello! I'm student developer 'Hestia'!
+저는 한국 국적을 가지고 있습니다!
+I'm from Korea!
+파이썬에 관심이 많습니다!
+I'm interested at Python!
+네! 그렇습니다!
+Yes!
+그럼 그냥 마칠게요!
+OK OK, 
